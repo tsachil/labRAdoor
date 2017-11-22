@@ -1,0 +1,7 @@
+openDoorIntent open the door
+openDoorIntent open the lab door
+openDoorIntent open door
+openDoorIntent open lab door
+openDoorIntent open sesame
+openDoorIntent open
+AMAZON.HelpIntent try open the door
